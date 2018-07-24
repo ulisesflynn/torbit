@@ -1,0 +1,5 @@
+server-address="127.0.0.1"
+chat-port="2000"
+web-port="8080"
+max-http-body=1024
+log-dir="/tmp"
