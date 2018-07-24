@@ -22,7 +22,7 @@ An Mach-O executable is included (chat)
 Project available on github
 
 ```bash
-git clone github.com\ulisesflynn\torbit
+git clone git@github.com:ulisesflynn/torbit.git
 go build main.go -o chat
 ```
 
